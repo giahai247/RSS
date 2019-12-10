@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">XMLParser</string>
+    <string name="btn_action_download">Load</string>
+    <string name="edt_url_input">Input Url</string>
+    <string name="title_activity_web">WebActivity</string>
+    <string name="edtUrl">https://vnexpress.net/rss/tin-moi-nhat.rss</string>
+    <string name="https_vnexpress_net_rss_thoi_su_rss">https://vnexpress.net/rss/thoi-su.rss</string>
+    <string name="string_with_link">&lt;a href="https://vnexpress.net/suc-khoe">Sức Khỏe - Vnexpress RSS&lt;/a></string>
+</resources>
